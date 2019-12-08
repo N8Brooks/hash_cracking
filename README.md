@@ -24,7 +24,9 @@ pip install tqdm
 python crack.py -h
 ```
 
-### Example - *This will compute collisions with 'word' for 5 minutes*
+### Example 
+
+This will compute collisions with 'word' for 5 minutes*
 
 ```
 python crack.py word -t 300
