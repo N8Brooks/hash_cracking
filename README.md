@@ -1,6 +1,6 @@
 # Hash Cracking
 
-A python script for finding crc32 collisions with a word.
+A python script for finding CRC32 collisions with a string.
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ python crack.py -h
 
 ### Example 
 
-This will compute collisions with 'word' for 5 minutes*
+This will compute collisions with 'word' for 5 minutes
 
 ```
 python crack.py word -t 300
